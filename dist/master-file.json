@@ -1,39 +1,6 @@
 [
   {
     "network": "etc",
-    "symbol": "BEC",
-    "name": "BEC",
-    "decimals": 8,
-    "contract_address": "0x085fb4f24031EAedbC2B611AA528f22343eB52Db",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/etc/0x085fb4f24031EAedbC2B611AA528f22343eB52Db.json",
-    "website": ""
-  },
-  {
-    "network": "etc",
-    "symbol": "PLAY",
-    "name": "Smart Billions",
-    "decimals": 0,
-    "contract_address": "0x5acE17f87c7391E5792a7683069A8025B83bbd85",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/etc/0x5acE17f87c7391E5792a7683069A8025B83bbd85.json",
-    "website": "http://smartbillions.com/"
-  },
-  {
-    "network": "etc",
-    "symbol": "UVC",
-    "name": "UniversalCoin",
-    "decimals": 5,
-    "contract_address": "0x76d0184CF511788032A74a1FB91146e63F43dd53",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/etc/0x76d0184CF511788032A74a1FB91146e63F43dd53.json",
-    "website": "https://universalcoin.io"
-  },
-  {
-    "network": "etc",
     "symbol": "UVCX",
     "name": "UniversalCoin X",
     "decimals": 18,
