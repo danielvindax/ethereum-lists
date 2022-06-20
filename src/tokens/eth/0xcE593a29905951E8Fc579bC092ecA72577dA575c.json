@@ -1,0 +1,27 @@
+{
+  "symbol": "GR",
+  "name": "GROM",
+  "type": "ERC20",
+  "address": "0xcE593a29905951E8Fc579bC092ecA72577dA575c",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

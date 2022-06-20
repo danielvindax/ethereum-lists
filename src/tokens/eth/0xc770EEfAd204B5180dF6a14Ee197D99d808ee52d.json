@@ -1,0 +1,27 @@
+{
+  "symbol": "FOX",
+  "name": "ShapeShift FOX Token",
+  "type": "ERC20",
+  "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

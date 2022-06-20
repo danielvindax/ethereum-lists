@@ -1,0 +1,27 @@
+{
+  "symbol": "ETH2X-FLI",
+  "name": "Index Coop   ETH 2x Flexible Leverage I",
+  "type": "ERC20",
+  "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
