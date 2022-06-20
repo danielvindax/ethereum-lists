@@ -9185,6 +9185,17 @@
     "website": ""
   },
   {
+    "network": "ctxx",
+    "symbol": "CTXX",
+    "name": "CryptoXX",
+    "decimals": 0,
+    "contract_address": "0xc4e350f80cd24B46FC6Dd8406823131324aE8d93",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTXX-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTXX-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/ctxx/0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.json",
+    "website": ""
+  },
+  {
     "network": "ctxx-testnet",
     "symbol": "tCTXX",
     "name": "tCryptoXX",
