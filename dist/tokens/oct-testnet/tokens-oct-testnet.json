@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "tCTXX",
-    "name": "tCryptoXX",
+    "symbol": "tOCT",
+    "name": "tOctium",
     "type": "ERC20",
-    "address": "0xC2A92d6e69B3C416Fc5b8EbB075dADe79639CA64",
+    "address": "0x87bf2c5e2B12B7808D07f24bAb1a676d1191FDfC",
     "ens_address": "",
     "decimals": 0,
     "website": "",

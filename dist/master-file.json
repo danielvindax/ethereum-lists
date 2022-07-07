@@ -9185,28 +9185,6 @@
     "website": ""
   },
   {
-    "network": "ctxx",
-    "symbol": "CTXX",
-    "name": "CryptoXX",
-    "decimals": 0,
-    "contract_address": "0xc4e350f80cd24B46FC6Dd8406823131324aE8d93",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTXX-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTXX-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/ctxx/0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.json",
-    "website": ""
-  },
-  {
-    "network": "ctxx-testnet",
-    "symbol": "tCTXX",
-    "name": "tCryptoXX",
-    "decimals": 0,
-    "contract_address": "0xC2A92d6e69B3C416Fc5b8EbB075dADe79639CA64",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xC2A92d6e69B3C416Fc5b8EbB075dADe79639CA64.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xC2A92d6e69B3C416Fc5b8EbB075dADe79639CA64.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/ctxx-testnet/0xC2A92d6e69B3C416Fc5b8EbB075dADe79639CA64.json",
-    "website": ""
-  },
-  {
     "network": "etc",
     "symbol": "UVCX",
     "name": "UniversalCoin X",
@@ -13890,6 +13868,17 @@
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BYTE-0xAC8Ea871e2d5F4Be618905F36f73c760f8cFDC8E-eth.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BYTE-0xAC8Ea871e2d5F4Be618905F36f73c760f8cFDC8E-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xAC8Ea871e2d5F4Be618905F36f73c760f8cFDC8E.json",
+    "website": ""
+  },
+  {
+    "network": "eth",
+    "symbol": "BYTS",
+    "name": "Bytus",
+    "decimals": 3,
+    "contract_address": "0x87F14E9460ceCb789F1B125b2E3e353Ff8ed6fcd",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BYTS-0x87F14E9460ceCb789F1B125b2E3e353Ff8ed6fcd-eth.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BYTS-0x87F14E9460ceCb789F1B125b2E3e353Ff8ed6fcd-eth.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x87F14E9460ceCb789F1B125b2E3e353Ff8ed6fcd.json",
     "website": ""
   },
   {
@@ -37742,6 +37731,17 @@
   },
   {
     "network": "matic",
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "decimals": 18,
+    "contract_address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BUSD-0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BUSD-0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7.json",
+    "website": ""
+  },
+  {
+    "network": "matic",
     "symbol": "C20",
     "name": "CRYPTO20",
     "decimals": 18,
@@ -43062,6 +43062,28 @@
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad.json",
+    "website": ""
+  },
+  {
+    "network": "oct",
+    "symbol": "OCT",
+    "name": "Octium",
+    "decimals": 0,
+    "contract_address": "0xc4e350f80cd24B46FC6Dd8406823131324aE8d93",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTXX-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTXX-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/oct/0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.json",
+    "website": ""
+  },
+  {
+    "network": "oct-testnet",
+    "symbol": "tOCT",
+    "name": "tOctium",
+    "decimals": 0,
+    "contract_address": "0x87bf2c5e2B12B7808D07f24bAb1a676d1191FDfC",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OCT-0x87bf2c5e2B12B7808D07f24bAb1a676d1191FDfC.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OCT-0x87bf2c5e2B12B7808D07f24bAb1a676d1191FDfC.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/oct-testnet/0x87bf2c5e2B12B7808D07f24bAb1a676d1191FDfC.json",
     "website": ""
   }
 ]
