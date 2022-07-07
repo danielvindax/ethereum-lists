@@ -34948,6 +34948,17 @@
   },
   {
     "network": "eth",
+    "symbol": "WPP",
+    "name": "WPP",
+    "decimals": 18,
+    "contract_address": "0x1955d744F9435522Be508D1Ba60E3c12D0690B6A",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/WPP-0x1955d744F9435522Be508D1Ba60E3c12D0690B6A.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/WPP-0x1955d744F9435522Be508D1Ba60E3c12D0690B6A.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1955d744F9435522Be508D1Ba60E3c12D0690B6A.json",
+    "website": ""
+  },
+  {
+    "network": "eth",
     "symbol": "WPR",
     "name": "WePower",
     "decimals": 18,
@@ -43070,8 +43081,8 @@
     "name": "Octium",
     "decimals": 0,
     "contract_address": "0xc4e350f80cd24B46FC6Dd8406823131324aE8d93",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTXX-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTXX-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OCT-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OCT-0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/oct/0xc4e350f80cd24B46FC6Dd8406823131324aE8d93.json",
     "website": ""
   },
