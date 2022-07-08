@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "OCT",
-    "name": "Octium",
+    "symbol": "WYZ",
+    "name": "WYZth",
     "type": "ERC20",
-    "address": "0xc4e350f80cd24B46FC6Dd8406823131324aE8d93",
+    "address": "0x069F123684962493C7df1C32B79f947b880a43e6",
     "ens_address": "",
     "decimals": 0,
     "website": "",
