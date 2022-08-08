@@ -36916,6 +36916,28 @@
     "website": ""
   },
   {
+    "network": "fblock",
+    "symbol": "FBLOCK",
+    "name": "Fiat Block",
+    "decimals": 0,
+    "contract_address": "0x783ABF47BFE11Aa2c00c369e29C881bDd74DA397",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x783ABF47BFE11Aa2c00c369e29C881bDd74DA397.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x783ABF47BFE11Aa2c00c369e29C881bDd74DA397.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/fblock/0x783ABF47BFE11Aa2c00c369e29C881bDd74DA397.json",
+    "website": ""
+  },
+  {
+    "network": "fblock-testnet",
+    "symbol": "tFBLOCK",
+    "name": "tFiat Block",
+    "decimals": 0,
+    "contract_address": "0x3Ffdd43D298907212782FEE2EeeDF49a08cD74c5",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x3Ffdd43D298907212782FEE2EeeDF49a08cD74c5.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x3Ffdd43D298907212782FEE2EeeDF49a08cD74c5.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/fblock-testnet/0x3Ffdd43D298907212782FEE2EeeDF49a08cD74c5.json",
+    "website": ""
+  },
+  {
     "network": "matic",
     "symbol": "$DG",
     "name": "decentral.games (PoS)",
@@ -41537,6 +41559,17 @@
   },
   {
     "network": "matic",
+    "symbol": "RVLT",
+    "name": "Revolt 2 Earn",
+    "decimals": 18,
+    "contract_address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CULT-0xf0f9D895aCa5c8678f706FB8216fa22957685A13.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CULT-0xf0f9D895aCa5c8678f706FB8216fa22957685A13.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0xf0f9D895aCa5c8678f706FB8216fa22957685A13.json",
+    "website": ""
+  },
+  {
+    "network": "matic",
     "symbol": "RVRS",
     "name": "Reverse",
     "decimals": 9,
@@ -43073,17 +43106,6 @@
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad.json",
-    "website": ""
-  },
-  {
-    "network": "wyz",
-    "symbol": "WYZ",
-    "name": "WYZth",
-    "decimals": 0,
-    "contract_address": "0x069F123684962493C7df1C32B79f947b880a43e6",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/WYZ-0x069F123684962493C7df1C32B79f947b880a43e6.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/WYZ-0x069F123684962493C7df1C32B79f947b880a43e6.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/wyz/0x069F123684962493C7df1C32B79f947b880a43e6.json",
     "website": ""
   }
 ]
