@@ -1,11 +1,11 @@
 [
   {
-    "symbol": "FBLOCK",
-    "name": "Fiat Block",
+    "symbol": "JCW",
+    "name": "Jchain",
     "type": "ERC20",
-    "address": "0x783ABF47BFE11Aa2c00c369e29C881bDd74DA397",
+    "address": "0xF63f9A63F510B04a62692f2B725cc9899652f72b",
     "ens_address": "",
-    "decimals": 0,
+    "decimals": 18,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
