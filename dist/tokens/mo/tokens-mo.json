@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "JVD",
-    "name": "Juvidoe Chain",
+    "symbol": "MO",
+    "name": "MO",
     "type": "ERC20",
-    "address": "0xF63f9A63F510B04a62692f2B725cc9899652f72b",
+    "address": "0x50A45986178b8F004bbECBBeA7BbfF8c4Cac920E",
     "ens_address": "",
     "decimals": 18,
     "website": "",
