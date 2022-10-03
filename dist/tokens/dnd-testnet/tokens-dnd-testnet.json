@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "JVD",
-    "name": "Juvidoe Chain",
+    "symbol": "tDND",
+    "name": "tDYNO",
     "type": "ERC20",
-    "address": "0xF63f9A63F510B04a62692f2B725cc9899652f72b",
+    "address": "0x36CFfAf0C9ABCBF1DcF84190C06Abbb2B9FeD691",
     "ens_address": "",
     "decimals": 18,
     "website": "",

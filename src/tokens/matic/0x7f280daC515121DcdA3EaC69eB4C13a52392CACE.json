@@ -1,8 +1,8 @@
 {
-  "symbol": "JVD",
-  "name": "Juvidoe Chain",
+  "symbol": "FNC",
+  "name": "Fancy Games",
   "type": "ERC20",
-  "address": "0xF63f9A63F510B04a62692f2B725cc9899652f72b",
+  "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
   "ens_address": "",
   "decimals": 18,
   "website": "",
