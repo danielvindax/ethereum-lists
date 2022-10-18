@@ -1,8 +1,8 @@
 {
-  "symbol": "tDND",
-  "name": "tDYNO",
+  "symbol": "tLOOP",
+  "name": "tLOOP",
   "type": "ERC20",
-  "address": "0x36CFfAf0C9ABCBF1DcF84190C06Abbb2B9FeD691",
+  "address": "0xDEaf9184B6075d55B4461449d1F5D9C8DC964aF3",
   "ens_address": "",
   "decimals": 18,
   "website": "",

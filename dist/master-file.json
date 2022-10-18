@@ -9196,28 +9196,6 @@
     "website": ""
   },
   {
-    "network": "dnd",
-    "symbol": "DND",
-    "name": "DYNO",
-    "decimals": 18,
-    "contract_address": "0x26e69c137757D36A3de282284eA7026074338115",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x26e69c137757D36A3de282284eA7026074338115.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x26e69c137757D36A3de282284eA7026074338115.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/dnd/0x26e69c137757D36A3de282284eA7026074338115.json",
-    "website": ""
-  },
-  {
-    "network": "dnd-testnet",
-    "symbol": "tDND",
-    "name": "tDYNO",
-    "decimals": 18,
-    "contract_address": "0x36CFfAf0C9ABCBF1DcF84190C06Abbb2B9FeD691",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x36CFfAf0C9ABCBF1DcF84190C06Abbb2B9FeD691.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x36CFfAf0C9ABCBF1DcF84190C06Abbb2B9FeD691.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/dnd-testnet/0x36CFfAf0C9ABCBF1DcF84190C06Abbb2B9FeD691.json",
-    "website": ""
-  },
-  {
     "network": "etc",
     "symbol": "UVCX",
     "name": "UniversalCoin X",
@@ -37122,6 +37100,28 @@
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZYX-0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZYX-0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D.json",
+    "website": ""
+  },
+  {
+    "network": "loop",
+    "symbol": "LOOP",
+    "name": "LOOP",
+    "decimals": 18,
+    "contract_address": "0x1f85a364e706FF439AC374f31410A47F48886d65",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/loop/0x1f85a364e706FF439AC374f31410A47F48886d65.json",
+    "website": ""
+  },
+  {
+    "network": "loop-testnet",
+    "symbol": "tLOOP",
+    "name": "tLOOP",
+    "decimals": 18,
+    "contract_address": "0xDEaf9184B6075d55B4461449d1F5D9C8DC964aF3",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/loop-testnet/0xDEaf9184B6075d55B4461449d1F5D9C8DC964aF3.json",
     "website": ""
   },
   {

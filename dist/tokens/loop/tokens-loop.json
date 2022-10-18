@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "DND",
-    "name": "DYNO",
+    "symbol": "LOOP",
+    "name": "LOOP",
     "type": "ERC20",
-    "address": "0x26e69c137757D36A3de282284eA7026074338115",
+    "address": "0x1f85a364e706FF439AC374f31410A47F48886d65",
     "ens_address": "",
     "decimals": 18,
     "website": "",
