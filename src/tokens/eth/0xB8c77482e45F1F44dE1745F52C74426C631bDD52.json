@@ -1,8 +1,8 @@
 {
-  "symbol": "LOOP",
-  "name": "LOOP",
+  "symbol": "BNB",
+  "name": "BNB",
   "type": "ERC20",
-  "address": "0x1f85a364e706FF439AC374f31410A47F48886d65",
+  "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
   "ens_address": "",
   "decimals": 18,
   "website": "",

@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "LOOP",
-    "name": "LOOP",
+    "symbol": "GSYS",
+    "name": "GSYS",
     "type": "ERC20",
-    "address": "0x1f85a364e706FF439AC374f31410A47F48886d65",
+    "address": "0x6d3F857dba55f580108b70f203Ad047914CC12CA",
     "ens_address": "",
     "decimals": 18,
     "website": "",

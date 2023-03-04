@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "tLOOP",
-    "name": "tLOOP",
+    "symbol": "tGSYS",
+    "name": "tGSYS",
     "type": "ERC20",
-    "address": "0xDEaf9184B6075d55B4461449d1F5D9C8DC964aF3",
+    "address": "0xBcD7BACA5559687DB79dCB5fda8369D064cD4b7A",
     "ens_address": "",
     "decimals": 18,
     "website": "",

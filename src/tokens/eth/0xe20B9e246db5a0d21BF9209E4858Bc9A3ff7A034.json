@@ -1,8 +1,8 @@
 {
-  "symbol": "tLOOP",
-  "name": "tLOOP",
+  "symbol": "BAN",
+  "name": "Banano",
   "type": "ERC20",
-  "address": "0xDEaf9184B6075d55B4461449d1F5D9C8DC964aF3",
+  "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
   "ens_address": "",
   "decimals": 18,
   "website": "",
