@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "tGSYS",
-    "name": "tGSYS",
+    "symbol": "tNRK",
+    "name": "tNRK",
     "type": "ERC20",
-    "address": "0xBcD7BACA5559687DB79dCB5fda8369D064cD4b7A",
+    "address": "0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C",
     "ens_address": "",
     "decimals": 18,
     "website": "",

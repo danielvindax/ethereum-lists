@@ -37169,28 +37169,6 @@
     "website": ""
   },
   {
-    "network": "gsys",
-    "symbol": "GSYS",
-    "name": "GSYS",
-    "decimals": 18,
-    "contract_address": "0x6d3F857dba55f580108b70f203Ad047914CC12CA",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x6d3F857dba55f580108b70f203Ad047914CC12CA.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x6d3F857dba55f580108b70f203Ad047914CC12CA.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/gsys/0x6d3F857dba55f580108b70f203Ad047914CC12CA.json",
-    "website": ""
-  },
-  {
-    "network": "gsys-testnet",
-    "symbol": "tGSYS",
-    "name": "tGSYS",
-    "decimals": 18,
-    "contract_address": "0xBcD7BACA5559687DB79dCB5fda8369D064cD4b7A",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xBcD7BACA5559687DB79dCB5fda8369D064cD4b7A.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xBcD7BACA5559687DB79dCB5fda8369D064cD4b7A.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/gsys-testnet/0xBcD7BACA5559687DB79dCB5fda8369D064cD4b7A.json",
-    "website": ""
-  },
-  {
     "network": "matic",
     "symbol": "$DG",
     "name": "decentral.games (PoS)",
@@ -43381,6 +43359,28 @@
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad.json",
+    "website": ""
+  },
+  {
+    "network": "nrk",
+    "symbol": "NRK",
+    "name": "NRK",
+    "decimals": 18,
+    "contract_address": "0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/nrk/0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a.json",
+    "website": ""
+  },
+  {
+    "network": "nrk-testnet",
+    "symbol": "tNRK",
+    "name": "tNRK",
+    "decimals": 18,
+    "contract_address": "0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/nrk-testnet/0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C.json",
     "website": ""
   }
 ]

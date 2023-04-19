@@ -1,8 +1,8 @@
 {
-  "symbol": "GSYS",
-  "name": "GSYS",
+  "symbol": "tNRK",
+  "name": "tNRK",
   "type": "ERC20",
-  "address": "0x6d3F857dba55f580108b70f203Ad047914CC12CA",
+  "address": "0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C",
   "ens_address": "",
   "decimals": 18,
   "website": "",

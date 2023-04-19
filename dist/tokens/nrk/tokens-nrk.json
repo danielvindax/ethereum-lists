@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "GSYS",
-    "name": "GSYS",
+    "symbol": "NRK",
+    "name": "NRK",
     "type": "ERC20",
-    "address": "0x6d3F857dba55f580108b70f203Ad047914CC12CA",
+    "address": "0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a",
     "ens_address": "",
     "decimals": 18,
     "website": "",
