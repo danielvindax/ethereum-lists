@@ -1,8 +1,8 @@
 {
-  "symbol": "NRK",
-  "name": "NRK",
+  "symbol": "FKW",
+  "name": "Fokawa",
   "type": "ERC20",
-  "address": "0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a",
+  "address": "0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257",
   "ens_address": "",
   "decimals": 18,
   "website": "",

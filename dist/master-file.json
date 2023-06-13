@@ -28073,6 +28073,17 @@
   },
   {
     "network": "eth",
+    "symbol": "PPBLZ",
+    "name": "Pepemon Pepeballs",
+    "decimals": 18,
+    "contract_address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PPBLZ-0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8-eth.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PPBLZ-0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8-eth.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8.json",
+    "website": ""
+  },
+  {
+    "network": "eth",
     "symbol": "PPC",
     "name": "PHILLIPS PAY COIN",
     "decimals": 1,
@@ -37169,6 +37180,28 @@
     "website": ""
   },
   {
+    "network": "fkw",
+    "symbol": "FKW",
+    "name": "Fokawa",
+    "decimals": 18,
+    "contract_address": "0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/fkw/0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257.json",
+    "website": ""
+  },
+  {
+    "network": "fkw-testnet",
+    "symbol": "tFKW",
+    "name": "tFokawa",
+    "decimals": 18,
+    "contract_address": "0xA0F66ce99395245c2288618893e08C01c49aeAb6",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xA0F66ce99395245c2288618893e08C01c49aeAb6.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xA0F66ce99395245c2288618893e08C01c49aeAb6.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/fkw-testnet/0xA0F66ce99395245c2288618893e08C01c49aeAb6.json",
+    "website": ""
+  },
+  {
     "network": "matic",
     "symbol": "$DG",
     "name": "decentral.games (PoS)",
@@ -43359,28 +43392,6 @@
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad.json",
-    "website": ""
-  },
-  {
-    "network": "nrk",
-    "symbol": "NRK",
-    "name": "NRK",
-    "decimals": 18,
-    "contract_address": "0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/nrk/0xD095a3145767D72Fb9F75CFe95BB37959b8C4a5a.json",
-    "website": ""
-  },
-  {
-    "network": "nrk-testnet",
-    "symbol": "tNRK",
-    "name": "tNRK",
-    "decimals": 18,
-    "contract_address": "0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/nrk-testnet/0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C.json",
     "website": ""
   }
 ]

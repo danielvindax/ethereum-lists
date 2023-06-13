@@ -1,9 +1,9 @@
 [
   {
-    "symbol": "tNRK",
-    "name": "tNRK",
+    "symbol": "tFKW",
+    "name": "tFokawa",
     "type": "ERC20",
-    "address": "0x24beFf5aF309b5C2d19CFe1a928754A3F894AE7C",
+    "address": "0xA0F66ce99395245c2288618893e08C01c49aeAb6",
     "ens_address": "",
     "decimals": 18,
     "website": "",
