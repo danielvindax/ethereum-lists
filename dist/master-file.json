@@ -2542,6 +2542,17 @@
   },
   {
     "network": "bsc",
+    "symbol": "DEUS",
+    "name": "DEUS Finance",
+    "decimals": 18,
+    "contract_address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DEUS-0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DEUS-0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/bsc/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44.json",
+    "website": ""
+  },
+  {
+    "network": "bsc",
     "symbol": "DEX",
     "name": "dexIRA",
     "decimals": 9,
@@ -14572,6 +14583,17 @@
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CINO-0x9250E33f8AE7B9FE02fb9af97a0c55b42A5aD9d8.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CINO-0x9250E33f8AE7B9FE02fb9af97a0c55b42A5aD9d8.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9250E33f8AE7B9FE02fb9af97a0c55b42A5aD9d8.json",
+    "website": ""
+  },
+  {
+    "network": "eth",
+    "symbol": "CIOTX",
+    "name": "Crosschain IOTX",
+    "decimals": 18,
+    "contract_address": "0x300211Def2a644b036A9bdd3e58159bb2074d388",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CIOTX-0x300211Def2a644b036A9bdd3e58159bb2074d388.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CIOTX-0x300211Def2a644b036A9bdd3e58159bb2074d388.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x300211Def2a644b036A9bdd3e58159bb2074d388.json",
     "website": ""
   },
   {
@@ -37180,28 +37202,6 @@
     "website": ""
   },
   {
-    "network": "fkw",
-    "symbol": "FKW",
-    "name": "Fokawa",
-    "decimals": 18,
-    "contract_address": "0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/fkw/0xd08Ff424041d0b938F7bC13bDDaE6f690cDa3257.json",
-    "website": ""
-  },
-  {
-    "network": "fkw-testnet",
-    "symbol": "tFKW",
-    "name": "tFokawa",
-    "decimals": 18,
-    "contract_address": "0xA0F66ce99395245c2288618893e08C01c49aeAb6",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xA0F66ce99395245c2288618893e08C01c49aeAb6.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0xA0F66ce99395245c2288618893e08C01c49aeAb6.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/fkw-testnet/0xA0F66ce99395245c2288618893e08C01c49aeAb6.json",
-    "website": ""
-  },
-  {
     "network": "matic",
     "symbol": "$DG",
     "name": "decentral.games (PoS)",
@@ -43392,6 +43392,17 @@
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ZUZ-0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad-matic.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad.json",
+    "website": ""
+  },
+  {
+    "network": "mix",
+    "symbol": "MIX",
+    "name": "MIEXS",
+    "decimals": 18,
+    "contract_address": "0x809c9202e6478ddBDC16AB57cB7B654eF1B4caFc",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x809c9202e6478ddBDC16AB57cB7B654eF1B4caFc.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x809c9202e6478ddBDC16AB57cB7B654eF1B4caFc.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/mix/0x809c9202e6478ddBDC16AB57cB7B654eF1B4caFc.json",
     "website": ""
   }
 ]
