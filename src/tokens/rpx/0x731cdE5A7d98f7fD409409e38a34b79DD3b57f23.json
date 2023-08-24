@@ -1,8 +1,8 @@
 {
-  "symbol": "MIX",
-  "name": "MIEXS",
+  "symbol": "RPX",
+  "name": "RupayX",
   "type": "ERC20",
-  "address": "0x809c9202e6478ddBDC16AB57cB7B654eF1B4caFc",
+  "address": "0x731cdE5A7d98f7fD409409e38a34b79DD3b57f23",
   "ens_address": "",
   "decimals": 18,
   "website": "",
