@@ -43399,10 +43399,10 @@
     "symbol": "RPX",
     "name": "RupayX",
     "decimals": 18,
-    "contract_address": "0x731cdE5A7d98f7fD409409e38a34b79DD3b57f23",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x731cdE5A7d98f7fD409409e38a34b79DD3b57f23.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x731cdE5A7d98f7fD409409e38a34b79DD3b57f23.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rpx/0x731cdE5A7d98f7fD409409e38a34b79DD3b57f23.json",
+    "contract_address": "0x38862eaCf113Ff18918a9Bd5E71515c077FAc2B4",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x38862eaCf113Ff18918a9Bd5E71515c077FAc2B4.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x38862eaCf113Ff18918a9Bd5E71515c077FAc2B4.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rpx/0x38862eaCf113Ff18918a9Bd5E71515c077FAc2B4.json",
     "website": ""
   }
 ]
